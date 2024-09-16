@@ -1,0 +1,45 @@
+Rendben! Ahhoz, hogy pontosan meg tudjam határozni a Snake játék specifikációját, itt van néhány kérdés, amit érdemes feltenni a megrendelőnek:
+
+Játékplatform: Milyen platformra szeretné a játékot (web, mobil, asztali számítógép)? Esetleg több platformra is szeretné?
+
+Játékstílus: Van-e preferencia a játékstílusra vonatkozóan? Például klasszikus Snake vagy modern változat (3D-s, speciális grafikával)?
+
+Játék célja és mechanikái:
+
+Milyen szabályok szerint működik a játék? (Például, hány élet van, vagy van-e időkorlát?)
+Mi a célja a játékosnak? (Minél hosszabb kígyót növeszteni, pontszámot gyűjteni stb.)
+Játékterület és dizájn:
+
+Milyen méretű legyen a játékterület? (Például fix vagy változtatható méretű?)
+Milyen grafikai stílust szeretne? (Egyszerű 2D-s grafika, pixel art, modern 3D stb.)
+Kígyó és irányítás:
+
+Milyen sebességgel mozogjon a kígyó? (Változó sebesség vagy állandó?)
+Hogyan irányítható a kígyó? (Billentyűzet, érintőképernyő, joystick stb.)
+Pontozás és szint:
+
+Milyen pontozási rendszert szeretne? (Minden egyes étel után, szintlépéskor stb.)
+Lesznek-e különböző szintek vagy kihívások a játékban?
+Hang és zene:
+
+Szeretne-e háttérzenét és hanghatásokat a játékhoz? Ha igen, milyen típusúakat?
+Játékosok száma:
+
+Egy játékos vagy többjátékos módot szeretne? Ha többjátékos, akkor helyi vagy online?
+Extra funkciók:
+
+Szeretne-e további funkciókat, mint például ranglisták, teljesítmény statisztikák vagy személyre szabható elemek?
+Tesztelés és karbantartás:
+
+Milyen tesztelési követelmények vannak? (Béta tesztelés, hibajavítási eljárások stb.)
+Milyen gyakran szeretné frissíteni a játékot vagy hozzáadni új funkciókat?
+Oktatási anyagok és dokumentáció:
+
+Szükség van-e felhasználói kézikönyvre vagy oktatóanyagokra a játékhoz?
+Költségvetés és időkeret:
+
+Mi az elkészítési határidő és a költségvetés kerete?
+Ezek a kérdések segíthetnek abban, hogy egyértelmű képet kapj arról, mit vár el a megrendelő, és hogyan tudod a legjobban teljesíteni a projektet.
+
+
+
